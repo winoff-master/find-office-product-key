@@ -8,4 +8,5 @@ Lost your Office product key? You can try this method:
 3. If your key is stored in BIOS, it will appear.
 > **Note:** This method may not work with digital licenses from Microsoft Store or OEM keys.
 ---
-find-office-product-key
+[Read more](https://github.com/winoff-master/)
+---
